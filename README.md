@@ -25,5 +25,5 @@ A cobrança precisa do token da autenticação. Não será necessário o certifi
 Na cobrança você deve enviar sua chave pix, para receber depois o valor da cobrança.
 Será criada uma cobrança que ficará com o status ativo e uma data de criação neste formato: "criacao":"2021-01-06T21:49:14.398Z"
 Vídeo com mais detalhes deste projeto:
-https://youtu.be/p44cwQ4bzf0
+
 Para mais informações consulte a documentação oficial da API Pix Gerencianet, disponível em: https://dev.gerencianet.com.br/docs/api-pix#section-criar-cobran-a-
