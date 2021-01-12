@@ -1,4 +1,4 @@
-# exemploAutenticaco
+# exemploAutenticacao
 
 Neste exemplo faremos autenticação depois uma cobrança.
 Você precisa colocar neste projeto seu certificado .p12
